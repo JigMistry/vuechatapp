@@ -12,6 +12,7 @@
 
 # WHAT APP HAVE
 
+- Basic design with scss , using flex layout
 - Login of User 
 - 3 users in system a@a.com, b@b.com, c@c.com with password 123456
 - after login chat screen will open , will show online users in header
