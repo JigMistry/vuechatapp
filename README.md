@@ -3,7 +3,7 @@
 ## for vue app do, 
 `npm install`
 `npm run serve`
-`App will open at localhost:8080`
+`App will open at specified port of localhost `
 
 ## for Backend Node
 `npm install`
