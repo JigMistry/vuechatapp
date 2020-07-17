@@ -20,6 +20,7 @@
 - If you send message to other user, that user will see notification (if not in conversation with you right now)
 - you can send emoji's to each other
 - you can send multiple images to each other
+- you can see if other user typing something to send
 - you can delete own message and other's message as well (same as instagram)
 
 
